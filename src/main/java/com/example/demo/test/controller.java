@@ -14,7 +14,7 @@ public class controller {
 
     @GetMapping("b")
     public String test() {
-        return "abc";
+        return "abcâ";
     }
 }
 
